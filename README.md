@@ -38,3 +38,9 @@ You can create a Series from:
 * Machine learning input features
 
 * Time-series data
+# Requirements
+pip install pandas
+# License
+
+This project is open-source and free to use.
+
